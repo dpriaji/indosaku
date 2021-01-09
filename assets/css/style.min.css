@@ -187,7 +187,7 @@ a.text-danger:hover,a.text-danger:focus {
 }
 
 .text-dark {
-    color: #3c4858 !important
+    color: #363535 !important
 }
 
 a {
@@ -3428,7 +3428,7 @@ p {
 }
 
 .features.feature-clean .title:hover {
-    color: #2f55d4 !important
+    color: #ff5e00!important
 }
 
 .features .ride-image {
@@ -3457,7 +3457,7 @@ p {
 }
 
 .features.fea-primary .content .title:hover {
-    color: #2f55d4 !important
+    color: #ff5e00 !important
 }
 
 .features.fea-primary .big-icon {
@@ -4161,7 +4161,7 @@ p {
 }
 
 .blog .content .title:hover {
-    color: #2f55d4 !important
+    color: #ff5e00 !important
 }
 
 .blog .content .post-meta .like,.blog .content .post-meta .comments,.blog .content .post-meta .readmore {
@@ -4480,7 +4480,7 @@ p {
 }
 
 .work-container.work-classic .content .title:hover,.work-container.work-grid .content .title:hover,.work-container.work-modern .content .title:hover {
-    color: #2f55d4 !important
+    color: #ff5e00 !important
 }
 
 .work-container.work-classic .content .tag,.work-container.work-grid .content .tag,.work-container.work-modern .content .tag {
@@ -4659,7 +4659,7 @@ p {
 }
 
 .event-schedule .content .title:hover {
-    color: #2f55d4 !important
+    color: #ff5e00 !important
 }
 
 .event-schedule .content .location-time {
@@ -4686,7 +4686,7 @@ p {
 }
 
 .courses-desc .content .title:hover {
-    color: #2f55d4 !important
+    color: #ff5e00 !important
 }
 
 .courses-desc .collection,.courses-desc .preview {
