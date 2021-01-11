@@ -1353,7 +1353,8 @@
 }
 
 .mdi-apple::before {
-    content: "\F0035"
+    font-family: FontAwesome;
+    content: "\f179"
 }
 
 .mdi-apple-airplay::before {
@@ -5429,7 +5430,8 @@
 }
 
 .mdi-chevron-right::before {
-    content: "\F0142"
+    font-family: FontAwesome;
+    content: "\f05a"
 }
 
 .mdi-chevron-right-box::before {
@@ -11485,7 +11487,8 @@
 }
 
 .mdi-google-play::before {
-    content: "\F02BC"
+    font-family: FontAwesome;
+    content: "\f17b"
 }
 
 .mdi-google-plus::before {
@@ -16489,7 +16492,8 @@
 }
 
 .mdi-phone::before {
-    content: "\F03F2"
+    font-family: FontAwesome;
+    content: "\f095"
 }
 
 .mdi-phone-alert::before {

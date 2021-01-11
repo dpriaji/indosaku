@@ -1005,7 +1005,8 @@
 }
 
 .uil-flip-v:before {
-    content: '\ea9f'
+    font-family: FontAwesome;
+    content: "\f15c"
 }
 
 .uil-cloud-sun-rain-alt:before {
@@ -1045,7 +1046,8 @@
 }
 
 .uil-object-group:before {
-    content: '\eaaa'
+    font-family: FontAwesome;
+    content: "\f1e0"
 }
 
 .uil-panorama-v:before {
@@ -4249,7 +4251,8 @@
 }
 
 .uil-layer-group:before {
-    content: '\e99f'
+    font-family: FontAwesome;
+    content: '\f000'
 }
 
 .uil-car:before {
