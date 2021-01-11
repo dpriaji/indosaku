@@ -3535,7 +3535,8 @@
 }
 
 .uil-map-marker:before {
-    content: '\e8ec'
+    font-family: FontAwesome;
+    content: "\f21d"
 }
 
 .uil-sign-right:before {
@@ -4528,11 +4529,13 @@
 }
 
 .uil-envelope:before {
-    content: '\e9e6'
+    font-family: FontAwesome;
+    content: "\f0e0"
 }
 
 .uil-phone:before {
-    content: '\e9e7'
+    font-family: FontAwesome;
+    content: "\f232"
 }
 
 .uil-calling:before {

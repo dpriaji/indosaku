@@ -16845,7 +16845,8 @@
 }
 
 .mdi-play::before {
-    content: "\F040A"
+    font-family: FontAwesome;
+    content: "\f1cc"
 }
 
 .mdi-play-box::before {

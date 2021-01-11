@@ -1514,11 +1514,11 @@ button:not(:disabled) {
 }
 
 .breadcrumb .breadcrumb-item a:hover {
-    color: #2f55d4
+    color: #ff5e00
 }
 
 .breadcrumb .breadcrumb-item.active {
-    color: #2f55d4
+    color: #ff5e00
 }
 
 .breadcrumb .breadcrumb-item:before {
@@ -1869,7 +1869,7 @@ button:not(:disabled) {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #2f55d4;
+    background-color: #ff5e00;
     opacity: 0.6;
     position: absolute;
     top: 0;
